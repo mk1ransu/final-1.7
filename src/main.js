@@ -1,6 +1,4 @@
 import * as THREE from 'three';
-// import gsap from 'gsap'; // Uncomment if you're going to use gsap later
-
 
 const canvas = document.querySelector('canvas.webgl');
 const scene = new THREE.Scene();
